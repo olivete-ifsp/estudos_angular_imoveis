@@ -1,8 +1,6 @@
-# portaria_front
+# estudos_angular_imoveis
 
-Front-end de um sistema de controle de portaria, está sendo desenvolvido em Angular com Typescript. Acessa uma API Rest com esse propósito, desenvolvida em Java com Spring boor
-
-# FrontEnd
+Esse primeiro estudo sobre Angular e consiste em uma página que apresenta um conjunto de imóveis.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
 
