@@ -27,7 +27,7 @@
 section.listing a {
     padding-left: 20px;
     text-decoration: none;
-    color: var(--accent-color);
+    /* color: var(--accent-color); */
 }
 
 section.listing a::after {
